@@ -1,5 +1,5 @@
 - 👋 Hi, I’m K.R.Manikandan
-- 👀 I’m passionated in Content Writer | Technical Writer | Data Analytics | Power BI Analyst
+- 👀 I’m passionated in Content Writer | Technical Writer | Data Analytics | Power BI Analyst | Data Scientist
 - 🌱 open to work  ...
 - Profile summary: Bringing 10+ years of a unique career trajectory from PLM database management to preparing contents and content writting for an online parts catalog in the automotive,Electric vehicle domain and ultimately transitioning into data analytics. Upskilled in data collection, cleaning, processing and manipulation with a proven ability to transform complex data into actionable insights that drive strategic decision-making. Proficient in SQL, R, Python and MS Excel and passionate about applying data-driven solutions to solve real-world challenges..
 - 📫 reach me by email maniramkr2006@gmail.com
